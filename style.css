@@ -1,0 +1,12 @@
+.input {
+  @apply w-full p-2 rounded border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700;
+}
+
+.btn-primary {
+  @apply bg-blue-900 dark:bg-orange-600 text-white px-4 py-2 rounded hover:opacity-90 transition;
+}
+
+.btn-secondary {
+  @apply bg-gray-300 dark:bg-gray-600 text-black dark:text-white px-3 py-2 rounded;
+}
+body { background: yellow;}
